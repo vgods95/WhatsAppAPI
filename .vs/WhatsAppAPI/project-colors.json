@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2": {
+      "ProjectGuid": "8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2",
+      "DisplayName": "WhatsAppAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,1519 @@
+﻿++Solução 'WhatsAppAPI' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:WhatsAppAPI.sln
+++WhatsAppAPI
+i:{00000000-0000-0000-0000-000000000000}:WhatsAppAPI
+++Connected Services 
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>25
+++Dependências
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>24
+++Properties
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\properties\
+++Controllers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\controllers\
+++WhatsAppController.cs
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\controllers\whatsappcontroller.cs
+++appsettings.json
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\appsettings.json
+++Program.cs
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\program.cs
+++WhatsAppMetadata.cs
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\whatsappmetadata.cs
+++Nenhuma dependência de serviço descoberta
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>26
+++Analisadores
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:analisadores
+++Estruturas
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:estruturas
+++Pacotes
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:pacotes
+++launchSettings.json
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\properties\launchsettings.json
+++appsettings.Development.json
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\microsoft.netcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>37
+++PuppeteerSharp (2.0.4)
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>141
+++System.Drawing.Common (6.0.0)
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>142
+++ZXing.Net (0.16.6)
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:>143
+++Documentos de Script
+++index.html
+++swagger-ui-bundle.js
+++swagger-ui-standalone-preset.js
+++aspnetcore-browser-refresh.js
+++NovaPasta
+++wwwroot
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\
+++myData
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\
+++Crashpad
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\crashpad\
+++CrashpadMetrics-active.pma
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\crashpadmetrics-active.pma
+++settings.dat
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\crashpad\settings.dat
+++BrowserMetrics
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\browsermetrics\
+++BrowserMetrics-61981918-ADC0.pma
+++Default
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\
+++Cache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\
+++Code Cache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\
+++GPUCache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\gpucache\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\
+++Platform Notifications
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\
+++Session Storage
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\
+++Site Characteristics Database
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\
+++Sync Data
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\
+++Cookies
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cookies
+++Cookies-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cookies-journal
+++Current Tabs
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\current tabs
+++Favicons
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\favicons
+++Favicons-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\favicons-journal
+++History
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\history
+++History-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\history-journal
+++Login Data
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\login data
+++Login Data-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\login data-journal
+++README
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\readme
+++Top Sites
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\top sites
+++Top Sites-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\top sites-journal
+++Visited Links
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\visited links
+++Web Data
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\web data
+++Web Data-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\web data-journal
+++data_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\data_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\gpucache\data_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\data_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\data_0
+++data_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\data_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\gpucache\data_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\data_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\data_1
+++data_2
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\data_2
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\gpucache\data_2
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\data_2
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\data_2
+++data_3
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\data_3
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\gpucache\data_3
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\data_3
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\data_3
+++index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\gpucache\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\wasm\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\scriptcache\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\03c136a7-fcf2-4408-a376-ebafe3f2c799\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\index
+++js
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\
+++wasm
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\wasm\
+++000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\000003.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\paths\000003.log
+++CURRENT
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\current
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\paths\current
+++LOCK
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\lock
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\paths\lock
+++LOG
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\paths\log
+++MANIFEST-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\manifest-000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\paths\manifest-000001
+++LevelDB
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\
+++index-dir
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\wasm\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\scriptcache\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\03c136a7-fcf2-4408-a376-ebafe3f2c799\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\index-dir\
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\index-dir\
+++the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\wasm\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\scriptcache\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\03c136a7-fcf2-4408-a376-ebafe3f2c799\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\index-dir\the-real-index
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\index-dir\the-real-index
+++DevToolsActivePort
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\devtoolsactiveport
+++ShaderCache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\
+++Last Version
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\last version
+++Stability
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\stability\
+++44480-1637357848175878.pma
+++lockfile
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\lockfile
+++GrShaderCache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\
+++Reporting and NEL
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\reporting and nel
+++Reporting and NEL-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\reporting and nel-journal
+++Extension State
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\
+++Current Session
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\current session
+++f_000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000001
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000001
+++heavy_ad_intervention_opt_out.db
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\heavy_ad_intervention_opt_out.db
+++heavy_ad_intervention_opt_out.db-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\heavy_ad_intervention_opt_out.db-journal
+++data_reduction_proxy_leveldb
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\
+++MANIFEST-000002
+++f_000002
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000002
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000002
+++Shortcuts
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shortcuts
+++Shortcuts-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shortcuts-journal
+++f_000003
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000003
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000003
+++Network Action Predictor
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\network action predictor
+++Network Action Predictor-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\network action predictor-journal
+++Feature Engagement Tracker
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\
+++AvailabilityDB
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\
+++EventDB
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\
+++History Provider Cache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\history provider cache
+++AutofillStrikeDatabase
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\
+++Translate Ranker Model
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\translate ranker model
+++shared_proto_db
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\
+++metadata
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\
+++f_000004
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000004
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000004
+++IndexedDB
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\
+++https_web.whatsapp.com_0.indexeddb.leveldb
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\
+++f_000005
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000005
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000005
+++f_000006
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000006
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000006
+++f_000007
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000007
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\shadercache\gpucache\f_000007
+++1b7207f4fbf4f791_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\1b7207f4fbf4f791_0
+++f_000008
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000008
+++databases
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\databases\
+++Databases.db
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\databases\databases.db
+++Databases.db-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\databases\databases.db-journal
+++Local Storage
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\
+++leveldb
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\
+++previews_opt_out.db
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\previews_opt_out.db
+++previews_opt_out.db-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\previews_opt_out.db-journal
+++BudgetDatabase
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\
+++QuotaManager
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\quotamanager
+++QuotaManager-journal
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\quotamanager-journal
+++32eda6cd23a187eb_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\32eda6cd23a187eb_0
+++36d66ca115b9c332_0
+++58276eac98ad90bd_0
+++82160483c54e45ae_0
+++8f93763dd4ba4aa8_0
+++9fb1d463ed7c8fca_0
+++b6ad9cd66c5bc97f_0
+++d439784ed054afa7_0
+++f_000009
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000009
+++Service Worker
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\
+++CacheStorage
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\
+++Database
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\
+++ScriptCache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\scriptcache\
+++0bf6ab7f94a21cdc9c1649f884333ec20f40a544
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\
+++2cc80dabc69f58b6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\scriptcache\2cc80dabc69f58b6_0
+++2cc80dabc69f58b6_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\scriptcache\2cc80dabc69f58b6_1
+++2aaa265b-0fcb-485e-afb1-78ce370c20f0
+++748d1663-5f4a-4a69-9936-c78b6f8b7ea0
+++a9430066-e6a3-4575-a2d7-95732e603c8a
+++fa3741e7-b81a-4fc6-aa3d-b2b6d870975d
+++index.txt
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\index.txt
+++a034088ecd4af689_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a034088ecd4af689_0
+++c98eb69eb37f739a_0
+++File System
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\
+++Origins
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\
+++f_00000a
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_00000a
+++Local State
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\local state
+++839eb56dc08e5d3a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\code cache\js\839eb56dc08e5d3a_0
+++258389811753ebd2_0
+++f_00000b
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00000b
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_00000b
+++Secure Preferences
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\secure preferences
+++Preferences
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\preferences
+++TransportSecurity
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\transportsecurity
+++Network Persistent State
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\network persistent state
+++Module Info Cache
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\module info cache
+++BrowserMetrics-spare.pma
+++f_00000c
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00000c
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_00000c
+++7fb4160b2ae628f8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\7fb4160b2ae628f8_0
+++f_00000d
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00000d
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_00000d
+++c08e885a081d5ff3_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\c08e885a081d5ff3_0
+++e3ed48eed1bdf908_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\e3ed48eed1bdf908_0
+++chrome_shutdown_ms.txt
+++App_Data
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\
+++Win64-706915
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\
+++chrome-win
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\
+++locales
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\
+++MEIPreload
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\meipreload\
+++swiftshader
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\swiftshader\
+++79.0.3945.0.manifest
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\79.0.3945.0.manifest
+++chrome.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome.dll
+++chrome.exe
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome.exe
+++chrome_100_percent.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome_100_percent.pak
+++chrome_200_percent.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome_200_percent.pak
+++chrome_child.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome_child.dll
+++chrome_elf.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome_elf.dll
+++chrome_proxy.exe
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome_proxy.exe
+++chrome_watcher.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\chrome_watcher.dll
+++D3DCompiler_47.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\d3dcompiler_47.dll
+++elevation_service.exe
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\elevation_service.exe
+++eventlog_provider.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\eventlog_provider.dll
+++First Run
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\first run
+++icudtl.dat
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\icudtl.dat
+++interactive_ui_tests.exe
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\interactive_ui_tests.exe
+++libEGL.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\libegl.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\swiftshader\libegl.dll
+++libGLESv2.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\libglesv2.dll
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\swiftshader\libglesv2.dll
+++nacl_irt_x86_64.nexe
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\nacl_irt_x86_64.nexe
+++natives_blob.bin
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\natives_blob.bin
+++notification_helper.exe
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\notification_helper.exe
+++resources.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\resources.pak
+++v8_context_snapshot.bin
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\v8_context_snapshot.bin
+++ar.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ar.pak
+++bg.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\bg.pak
+++bn.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\bn.pak
+++ca.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ca.pak
+++cs.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\cs.pak
+++da.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\da.pak
+++de.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\de.pak
+++el.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\el.pak
+++en-GB.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\en-gb.pak
+++en-US.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\en-us.pak
+++es.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\es.pak
+++es-419.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\es-419.pak
+++et.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\et.pak
+++fi.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\fi.pak
+++fil.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\fil.pak
+++fr.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\fr.pak
+++gu.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\gu.pak
+++he.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\he.pak
+++hi.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\hi.pak
+++hr.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\hr.pak
+++hu.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\hu.pak
+++id.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\id.pak
+++it.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\it.pak
+++ja.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ja.pak
+++kn.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\kn.pak
+++ko.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ko.pak
+++lt.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\lt.pak
+++lv.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\lv.pak
+++ml.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ml.pak
+++mr.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\mr.pak
+++ms.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ms.pak
+++nb.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\nb.pak
+++nl.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\nl.pak
+++pl.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\pl.pak
+++pt-BR.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\pt-br.pak
+++pt-PT.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\pt-pt.pak
+++ro.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ro.pak
+++ru.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ru.pak
+++sk.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\sk.pak
+++sl.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\sl.pak
+++sr.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\sr.pak
+++sv.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\sv.pak
+++ta.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\ta.pak
+++te.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\te.pak
+++th.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\th.pak
+++tr.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\tr.pak
+++uk.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\uk.pak
+++vi.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\vi.pak
+++zh-CN.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\zh-cn.pak
+++zh-TW.pak
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\locales\zh-tw.pak
+++manifest.json
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\meipreload\manifest.json
+++preloaded_data.pb
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\meipreload\preloaded_data.pb
+++4844-1637358502911632.pma
+++CrashpadMetrics.pma
+++BrowserMetrics-61981BA7-12EC.pma
+++LOG.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\site characteristics database\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\sync data\leveldb\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\database\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\session storage\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\platform notifications\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\extension state\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\origins\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\eventdb\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\feature engagement tracker\availabilitydb\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\budgetdatabase\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\autofillstrikedatabase\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\metadata\log.old
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\shared_proto_db\log.old
+++Last Tabs
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\last tabs
+++Last Session
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\last session
+++000
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\
+++t
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\
+++Paths
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\paths\
+++.usage
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\file system\000\t\.usage
+++f_00000e
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00000e
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_00000e
+++e2ac5e0c167c9292_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\e2ac5e0c167c9292_0
+++f_00000f
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00000f
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_00000f
+++7fc3db8ad067d865_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\7fc3db8ad067d865_0
+++f_000010
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000010
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000010
+++f_000011
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000011
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000011
+++e823b477a26e3463_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\e823b477a26e3463_0
+++f_000012
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000012
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000012
+++ab5c42a9e89c4d94_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\ab5c42a9e89c4d94_0
+++f_000013
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000013
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000013
+++243fc3ce85b3c569_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\243fc3ce85b3c569_0
+++000005.log
+++MANIFEST-000004
+++b5249ccbe31f489f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\b5249ccbe31f489f_0
+++6a7109c1a3240478_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\6a7109c1a3240478_0
+++bf4cca1d939969c5_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\bf4cca1d939969c5_0
+++VM5
+++42988-1637360058768943.pma
+++BrowserMetrics-619821BA-A7EC.pma
+++b5249ccbe31f489f_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\b5249ccbe31f489f_1
+++e2ac5e0c167c9292_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\e2ac5e0c167c9292_1
+++7fc3db8ad067d865_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\7fc3db8ad067d865_1
+++6a7109c1a3240478_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\6a7109c1a3240478_1
+++e823b477a26e3463_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\e823b477a26e3463_1
+++bf4cca1d939969c5_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\bf4cca1d939969c5_1
+++ab5c42a9e89c4d94_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\ab5c42a9e89c4d94_1
+++243fc3ce85b3c569_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\243fc3ce85b3c569_1
+++000007.log
+++MANIFEST-000006
+++34580-1637360128170335.pma
+++BrowserMetrics-61982200-8714.pma
+++9a5efb10ad6c2537_0
+++000009.log
+++MANIFEST-000008
+++000008.dbtmp
+++c631600e-fa17-4c6f-ac30-f1d3d1572d68.tmp
+++6d80b6e4-ac5e-459d-a86f-965661f38b3c.tmp
+++45876-1637360198563234.pma
+++BrowserMetrics-61982246-B334.pma
+++000011.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\000011.log
+++MANIFEST-000010
+++BrowserMetrics-6198225C-B75C.pma
+++23144-1637360299330014.pma
+++BrowserMetrics-619822AB-5A68.pma
+++000013.log
+++MANIFEST-000012
+++f_000014
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000014
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000014
+++9256c86889b8578e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\9256c86889b8578e_0
+++6dfcaa1278b58ee4_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\6dfcaa1278b58ee4_0
+++f_000015
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000015
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\grshadercache\gpucache\f_000015
+++b0cd8bcb40c378a0_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\b0cd8bcb40c378a0_0
+++f_000016
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000016
+++f_000017
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000017
+++036c812487f84b75_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\036c812487f84b75_0
+++todelete_9a5efb10ad6c2537_0_1
+++5ad50f138b0d18e8_0
+++f_000018
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000018
+++db5a43d41e2a07b6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\db5a43d41e2a07b6_0
+++f_000019
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000019
+++8ff2df0cbc6bb9ec_0
+++21934426579acba3_0
+++f_00001a
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00001a
+++2d25ac91a2bb4ace_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\2d25ac91a2bb4ace_0
+++251f2185-b697-416b-b6b0-1f2abd7ec11c
+++07ef875a21b8e1e7_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\07ef875a21b8e1e7_0
+++a455c5f2ca4e6c39_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a455c5f2ca4e6c39_0
+++a8970afb39987a0e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a8970afb39987a0e_0
+++f_00001b
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00001b
+++f_00001c
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00001c
+++b15a4b9117aafda6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\b15a4b9117aafda6_0
+++d971d5996b5e87b2_0
+++340fc6e53d6eaf53_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\340fc6e53d6eaf53_0
+++34b5f4a8e7b2d611_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\34b5f4a8e7b2d611_0
+++todelete_c98eb69eb37f739a_0_1
+++644804b98d60a858_0
+++5cdcf5caefc87076_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\5cdcf5caefc87076_0
+++64c38b0b1421aae7_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\64c38b0b1421aae7_0
+++0f1b84252e365d7a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\0f1b84252e365d7a_0
+++bfd47bbb322a6775_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\bfd47bbb322a6775_0
+++184b54ca0c22add6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\184b54ca0c22add6_0
+++6aeefb673dc9abe9_0
+++c46859c04dd0fd5a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\c46859c04dd0fd5a_0
+++1e4bc9d1fb75f652_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\1e4bc9d1fb75f652_0
+++cab1de4936e81b49_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\cab1de4936e81b49_0
+++4eff866bce7cb16b_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4eff866bce7cb16b_0
+++515634b783c01870_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\515634b783c01870_0
+++ce2bba0cc0eaef77_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\ce2bba0cc0eaef77_0
+++6cac7518708f4a5f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6cac7518708f4a5f_0
+++dafbe34ba4a561a2_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\dafbe34ba4a561a2_0
+++e2549db5b87cda28_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e2549db5b87cda28_0
+++f236f8c03d28e026_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\f236f8c03d28e026_0
+++21848-1637360320709288.pma
+++BrowserMetrics-619822C0-5558.pma
+++000015.log
+++MANIFEST-000014
+++6dfcaa1278b58ee4_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\6dfcaa1278b58ee4_1
+++9256c86889b8578e_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\9256c86889b8578e_1
+++b0cd8bcb40c378a0_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\b0cd8bcb40c378a0_1
+++db5a43d41e2a07b6_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\db5a43d41e2a07b6_1
+++2d25ac91a2bb4ace_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\2d25ac91a2bb4ace_1
+++64c38b0b1421aae7_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\64c38b0b1421aae7_1
+++f_00001d
+++f_00001e
+++todelete_0f1b84252e365d7a_0_1
+++f_00001f
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00001f
+++f_000020
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000020
+++5a4005e0134525cc_0
+++f_000021
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000021
+++bba92ed4b8bfc0a1_0
+++bd3766475fe307a9_0
+++f_000022
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000022
+++11a3dec79e3fa8b5_0
+++c3f24d8de5bc9d8f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\c3f24d8de5bc9d8f_0
+++f_000023
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000023
+++e3469604d87a1813_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e3469604d87a1813_0
+++f_000024
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000024
+++f_000025
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000025
+++f_000026
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000026
+++cdd434fbe142ea79_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\cdd434fbe142ea79_0
+++f_000027
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000027
+++6d1c89401df7af4e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6d1c89401df7af4e_0
+++f_000028
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000028
+++037a836d5496a4a5_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\037a836d5496a4a5_0
+++f_000029
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000029
+++f_00002a
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00002a
+++f_00002b
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00002b
+++f_00002c
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00002c
+++f_00002d
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00002d
+++f_00002e
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00002e
+++f_00002f
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00002f
+++f_000030
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000030
+++f_000031
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000031
+++f_000032
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000032
+++f_000033
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000033
+++cdf9d6eb5adf7ddc_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\cdf9d6eb5adf7ddc_0
+++f_000034
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000034
+++f_000035
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000035
+++d0315d4b94c4ec2a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\d0315d4b94c4ec2a_0
+++f_000036
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000036
+++e189cd462d96884f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e189cd462d96884f_0
+++f4998efa734807f8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\f4998efa734807f8_0
+++c7e5899dcec6b213_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\c7e5899dcec6b213_0
+++d1c8e4773a3589f7_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\d1c8e4773a3589f7_0
+++f_000037
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000037
+++a055a39f482c345b_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a055a39f482c345b_0
+++1199233e8c483620_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\1199233e8c483620_0
+++2289840e59e799b2_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\2289840e59e799b2_0
+++c8889b74d5f6d074_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\c8889b74d5f6d074_0
+++f_000038
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000038
+++f_000039
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000039
+++f_00003a
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00003a
+++4f8662bb78eec504_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4f8662bb78eec504_0
+++f_00003b
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00003b
+++039ed978268e2414_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\039ed978268e2414_0
+++f_00003c
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00003c
+++f_00003d
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00003d
+++f_00003e
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00003e
+++51e95c9cc2e40b33_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\51e95c9cc2e40b33_0
+++f_00003f
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00003f
+++f_000040
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000040
+++f_000041
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000041
+++f_000042
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000042
+++f_000043
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000043
+++a8fa2fc788e18411_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a8fa2fc788e18411_0
+++6ed67f3f9593d74b_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6ed67f3f9593d74b_0
+++f_000044
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000044
+++b8f0ef8527457393_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\b8f0ef8527457393_0
+++bfba08a1f48c5de6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\bfba08a1f48c5de6_0
+++1c21796851b28ac7_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\1c21796851b28ac7_0
+++f_000045
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000045
+++f_000046
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000046
+++f_000047
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000047
+++7d518901814222e5_0
+++412ee47785a13df1_0
+++f_000048
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000048
+++d42411028bdd458e_0
+++f_000049
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000049
+++88bce48cfcdd5397_0
+++f_00004a
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00004a
+++f_00004b
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00004b
+++f_00004c
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00004c
+++f_00004d
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00004d
+++f_00004e
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00004e
+++0f39d14721b479ec_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\0f39d14721b479ec_0
+++4dcf775fad59d078_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\4dcf775fad59d078_0
+++e39f09797c511233_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e39f09797c511233_0
+++d22d180eb0817f3f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\d22d180eb0817f3f_0
+++e3ca60a6f1ad9b26_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e3ca60a6f1ad9b26_0
+++04a9b0b3cdb6d3c4_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\04a9b0b3cdb6d3c4_0
+++2295de54d2dfd981_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\2295de54d2dfd981_0
+++f7146f4d8c62230a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\f7146f4d8c62230a_0
+++f8eb9e3d4172d82f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\f8eb9e3d4172d82f_0
+++d44a34dc8fcc543b_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\d44a34dc8fcc543b_0
+++70d5015c1af28528_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\70d5015c1af28528_0
+++a09ce441a4262171_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a09ce441a4262171_0
+++15afde4e62dfcd20_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\15afde4e62dfcd20_0
+++4fceb12ce4f2af3b_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4fceb12ce4f2af3b_0
+++1c4b3fd2e0f6bb8f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\1c4b3fd2e0f6bb8f_0
+++04ad4d58217cff52_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\04ad4d58217cff52_0
+++70edae86f469b9a6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\70edae86f469b9a6_0
+++5206cc322cb6ee40_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\5206cc322cb6ee40_0
+++e4d29b934c6bddaa_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e4d29b934c6bddaa_0
+++ac614a33a2dc6c7f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\ac614a33a2dc6c7f_0
+++e28cba5b5afe8cda_0
+++483dab7bb4143881_0
+++9c739c6af2148984_0
+++98837259ab78e28e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\98837259ab78e28e_0
+++9fa88ea8d11783c8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\9fa88ea8d11783c8_0
+++5645b6f05c98efa2_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\5645b6f05c98efa2_0
+++242e18da3daea4c7_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\242e18da3daea4c7_0
+++d4ed92d9632aa131_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\d4ed92d9632aa131_0
+++76e1ca10b4aaccc2_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\76e1ca10b4aaccc2_0
+++e5b09f4bbc15a1d1_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\e5b09f4bbc15a1d1_0
+++78be0a677473bf13_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\78be0a677473bf13_0
+++50858f6c17509ebb_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\50858f6c17509ebb_0
+++a301b1537b05ecc9_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a301b1537b05ecc9_0
+++0552eee7cc836aff_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\0552eee7cc836aff_0
+++d5afcccc668cdc08_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\d5afcccc668cdc08_0
+++79d4bcbf75268f6c_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\79d4bcbf75268f6c_0
+++7b08cbfad5e353e6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\7b08cbfad5e353e6_0
+++7baf1c3658e067d4_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\7baf1c3658e067d4_0
+++570b70f908253ee1_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\570b70f908253ee1_0
+++077b6b4ca73e48b4_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\077b6b4ca73e48b4_0
+++ad7facc4a84b11b9_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\ad7facc4a84b11b9_0
+++24e98b7f151097c4_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\24e98b7f151097c4_0
+++7f0bb14d3d7a16c8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\7f0bb14d3d7a16c8_0
+++a447c7d8939adb55_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\a447c7d8939adb55_0
+++283f9f57f2890236_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\283f9f57f2890236_0
+++ae44e09753f31bfb_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\ae44e09753f31bfb_0
+++dacb7258151654ce_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\dacb7258151654ce_0
+++c9ba7b779caa1288_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\c9ba7b779caa1288_0
+++eb612b20ada5ea91_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\eb612b20ada5ea91_0
+++57a3a93b044cb118_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\57a3a93b044cb118_0
+++edd964d9f1583316_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\edd964d9f1583316_0
+++57ddb76d873ca526_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\57ddb76d873ca526_0
+++5a22dc599d596a9e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\5a22dc599d596a9e_0
+++29dc4bf5699802c8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\29dc4bf5699802c8_0
+++b0191cda67cb8d01_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\b0191cda67cb8d01_0
+++07d7ba07f9b1a331_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\07d7ba07f9b1a331_0
+++7fd505d8a2c81b29_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\7fd505d8a2c81b29_0
+++5b074e3b30446dce_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\5b074e3b30446dce_0
+++ef6a58d5d1f294a1_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\ef6a58d5d1f294a1_0
+++87345c62cf1980a1_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\87345c62cf1980a1_0
+++330d6d1ac1839d21_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\330d6d1ac1839d21_0
+++b0fb6bc59c10b8fa_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\b0fb6bc59c10b8fa_0
+++5c35f73155f55caa_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\5c35f73155f55caa_0
+++6224efc333b11e0f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6224efc333b11e0f_0
+++625ec19952f0497d_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\625ec19952f0497d_0
+++36b3633e2fa8bd02_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\36b3633e2fa8bd02_0
+++6543d4ff8caf70c5_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6543d4ff8caf70c5_0
+++b10cf930ebd735b7_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\b10cf930ebd735b7_0
+++ef926c149533185c_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\ef926c149533185c_0
+++682675a6987e5c7f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\682675a6987e5c7f_0
+++897c9207a18308ed_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\897c9207a18308ed_0
+++eff7db5f1c8fe962_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\eff7db5f1c8fe962_0
+++8dae1831cab25e06_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\8dae1831cab25e06_0
+++399a65be3c2dd786_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\399a65be3c2dd786_0
+++6927f6478f89ec6e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6927f6478f89ec6e_0
+++39f834272fef4560_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\39f834272fef4560_0
+++3cd51ebad4fbbc61_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\3cd51ebad4fbbc61_0
+++8f045feac78563de_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\8f045feac78563de_0
+++90de025a759baf51_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\90de025a759baf51_0
+++6ab5048e13e6f414_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6ab5048e13e6f414_0
+++6c4e57774bc9fbbc_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\6c4e57774bc9fbbc_0
+++3d5af2d78e988ca8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\3d5af2d78e988ca8_0
+++9468a373ea6e0fa8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\9468a373ea6e0fa8_0
+++4038bf1266a6b4a3_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4038bf1266a6b4a3_0
+++40b19cd846e1a833_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\40b19cd846e1a833_0
+++9a842d814f01875b_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\9a842d814f01875b_0
+++4131c9610d035487_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4131c9610d035487_0
+++4166d33f14d13b97_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4166d33f14d13b97_0
+++4411a06cbecd6eb5_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4411a06cbecd6eb5_0
+++446e48eb548e1883_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\446e48eb548e1883_0
+++486c372c4e4a6320_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\486c372c4e4a6320_0
+++4cdd8d82cacca4f9_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4cdd8d82cacca4f9_0
+++4d1fca6ad1d0960e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\4d1fca6ad1d0960e_0
+++f_00004f
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00004f
+++f_000050
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000050
+++7c89df04f074b1d2_0
+++ffd374228a46f352_0
+++f_000051
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000051
+++c8fc378fb203aad3_0
+++f_000052
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000052
+++eeaf5f281ba4411f_0
+++f_000053
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000053
+++3e098b592a6b6045_0
+++BrowserMetrics-6198230C-341C.pma
+++CrashpadMetrics.pma~RF1191b37f.TMP
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\crashpadmetrics.pma~rf1191b37f.tmp
+++BrowserMetrics-61982317-B6DC.pma
+++41244-1637360412545690.pma
+++BrowserMetrics-6198231C-A11C.pma
+++f_000054
+++f_000055
+++f_000056
+++f_000057
+++todelete_07ef875a21b8e1e7_0_1
+++todelete_1e4bc9d1fb75f652_0_1
+++todelete_515634b783c01870_0_1
+++todelete_a8970afb39987a0e_0_1
+++todelete_bfd47bbb322a6775_0_1
+++todelete_c46859c04dd0fd5a_0_1
+++todelete_cab1de4936e81b49_0_1
+++todelete_dafbe34ba4a561a2_0_1
+++f_000058
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000058
+++b701e05238c533dc_0
+++f_000059
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000059
+++35872-1637360449614817.pma
+++BrowserMetrics-61982341-8C20.pma
+++f_00005a
+++f_00005b
+++000017.log
+++MANIFEST-000016
+++f_00005c
+++f_00005d
+++todelete_184b54ca0c22add6_0_1
+++todelete_4eff866bce7cb16b_0_1
+++todelete_a455c5f2ca4e6c39_0_1
+++todelete_b15a4b9117aafda6_0_1
+++todelete_ce2bba0cc0eaef77_0_1
+++todelete_f236f8c03d28e026_0_1
+++f_00005e
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_00005e
+++35808-1637360506045068.pma
+++BrowserMetrics-6198237A-8BE0.pma
+++f_00005f
+++f_000060
+++f_000061
+++f_000062
+++000019.log
+++MANIFEST-000018
+++Dictionaries
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\dictionaries\
+++pt-BR-3-0.bdic
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\app_data\win64-706915\chrome-win\dictionaries\pt-br-3-0.bdic
+++todelete_0f39d14721b479ec_0_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\todelete_0f39d14721b479ec_0_1
+++f_000063
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000063
+++todelete_4dcf775fad59d078_0_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\todelete_4dcf775fad59d078_0_1
+++todelete_98837259ab78e28e_0_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\todelete_98837259ab78e28e_0_1
+++todelete_9fa88ea8d11783c8_0_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\todelete_9fa88ea8d11783c8_0_1
+++todelete_c9ba7b779caa1288_0_1
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\todelete_c9ba7b779caa1288_0_1
+++46336-1637360565862755.pma
+++BrowserMetrics-619823B5-B500.pma
+++f_000064
+++f_000065
+++f_000066
+++f_000067
+++44532-1637360665014264.pma
+++BrowserMetrics-61982419-ADF4.pma
+++f_000068
+++f_000069
+++f_00006a
+++f_00006b
+++000021.log
+++MANIFEST-000020
+++39196-1637360695871276.pma
+++BrowserMetrics-61982437-991C.pma
+++f_00006c
+++f_00006d
+++000023.log
+++MANIFEST-000022
+++f_00006e
+++f_00006f
+++35344-1637360846938946.pma
+++BrowserMetrics-619824CF-8A10.pma
+++f_000070
+++000025.log
+++MANIFEST-000024
+++f_000071
+++000004.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\000004.log
+++000005.ldb
+++2d9b557c-2ac4-4688-afe4-3946ff05c5f5
+++e54236a6-55d3-40ed-9889-b9eedd1b945f
+++318183ad09ecd9a2_0
+++62b99833a6fc9091_0
+++01ea56cbe495a8e6_0
+++081a76c1ed67dd8d_0
+++66b385c604b597f6_0
+++20dc9747104548ed_0
+++6dabb4a2c57b4499_0
+++23add4c2822c7046_0
+++8404860ee4916f07_0
+++8ff8af0118663d51_0
+++b8a2ed9d56dc02fb_0
+++cb972db3890110f8_0
+++e9559a32a12573e5_0
+++45360-1637360885245575.pma
+++BrowserMetrics-619824F5-B130.pma
+++55d07bbb-3e9e-4e56-bc05-3f1486020562
+++7d984979-a5ad-4075-b661-9fb2bdb88784
+++b46b2d4a-fe12-4bbe-adde-0bf1bef4a961
+++000027.log
+++MANIFEST-000026
+++4b8cbfd41b583c89_0
+++f_000072
+++f_000073
+++todelete_446e48eb548e1883_0_1
+++431919be14573635_0
+++ddcf3f8b7173fb35_0
+++aba5baf75ac8fcb1_0
+++5ba862b9ae79a6db_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\5ba862b9ae79a6db_0
+++30332-1637360969186302.pma
+++BrowserMetrics-61982549-767C.pma
+++f_000074
+++f_000075
+++000029.log
+++MANIFEST-000028
+++a8ed6538e5c89c43_0
+++f_000076
+++f_000077
+++todelete_a8ed6538e5c89c43_0_1
+++a4ee930d8d65b65c_0
+++f_000078
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000078
+++d27751728d603bb3_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\d27751728d603bb3_0
+++4203a7f93f0c5ac6_0
+++f_000079
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_000079
+++4bf613fccdfe62bc_0
+++9b6fda1b-0f0a-48d0-9659-eba6af99a26d
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\9b6fda1b-0f0a-48d0-9659-eba6af99a26d\
+++000008.ldb
+++dbd489ae-aa98-496e-a5ac-4fba051fce38
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\
+++f_00007a
+++f_00007b
+++000009.ldb
+++31424-1637361096901258.pma
+++BrowserMetrics-619825C8-7AC0.pma
+++03c136a7-fcf2-4408-a376-ebafe3f2c799
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\03c136a7-fcf2-4408-a376-ebafe3f2c799\
+++6740cf02-4caf-4ecd-a3d7-73bc575c4037
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6740cf02-4caf-4ecd-a3d7-73bc575c4037\
+++d7f048e2-fa0d-43ba-b947-3efcae115322
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\d7f048e2-fa0d-43ba-b947-3efcae115322\
+++000031.log
+++MANIFEST-000030
+++46972-1637361141797979.pma
+++BrowserMetrics-619825F5-B77C.pma
+++000033.log
+++MANIFEST-000032
+++1f3cc9d2ca9f7731_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\1f3cc9d2ca9f7731_0
+++22f2e8fe4724bd75_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\22f2e8fe4724bd75_0
+++2cf0c82bd5960c1a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\2cf0c82bd5960c1a_0
+++50538f492a2ba98e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\50538f492a2ba98e_0
+++5151a75dcff73ea8_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\5151a75dcff73ea8_0
+++6799a385d6a2d464_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\6799a385d6a2d464_0
+++ef59350d366bd2c6_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\ef59350d366bd2c6_0
+++f_00007c
+++f_00007d
+++1cdc6a589836d87a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\1cdc6a589836d87a_0
+++c25f8a8288ad0ddb_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\c25f8a8288ad0ddb_0
+++423e4bb00161f865_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\423e4bb00161f865_0
+++eb07d16c6074d931_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\eb07d16c6074d931_0
+++4fbbaa40e907c2d4_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\4fbbaa40e907c2d4_0
+++6024924e82b9a97e_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\6024924e82b9a97e_0
+++26ab9cc52115e6a5_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\26ab9cc52115e6a5_0
+++0004d28455b3222f_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\0004d28455b3222f_0
+++d678fb7a9d1db30a_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\d678fb7a9d1db30a_0
+++11d284a0d9e6a5e2_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\11d284a0d9e6a5e2_0
+++45036-1637361238494666.pma
+++BrowserMetrics-61982656-AFEC.pma
+++f_00007e
+++f_00007f
+++000035.log
+++MANIFEST-000034
+++f_000080
+++f_000081
+++43668-1637361399630515.pma
+++BrowserMetrics-619826F7-AA94.pma
+++000037.log
+++MANIFEST-000036
+++f_000082
+++f_000083
+++47748-1637361481600760.pma
+++BrowserMetrics-61982749-BA84.pma
+++000003.ldb
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\local storage\leveldb\000003.ldb
+++f_000084
+++f_000085
+++4819d261c4a472a4_0
+++000039.log
+++MANIFEST-000038
+++6ad1853acf243f87_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\6ad1853acf243f87_0
+++60dae7361b34d396_0
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\service worker\cachestorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\dbd489ae-aa98-496e-a5ac-4fba051fce38\60dae7361b34d396_0
+++BrowserMetrics-619827F6-B9E4.pma
+++43652-1637361680314603.pma
+++BrowserMetrics-61982810-AA84.pma
+++f_000086
+++f_000087
+++f_000088
+++f_000089
+++23408-1637361717487845.pma
+++BrowserMetrics-61982835-5B70.pma
+++f_00008a
+++f_00008b
+++f_00008c
+++f_00008d
+++000041.log
+++MANIFEST-000040
+++30328-1637361738775419.pma
+++BrowserMetrics-6198284A-7678.pma
+++f_00008e
+++f_00008f
+++000043.log
+++MANIFEST-000042
+++f_000090
+++f_000091
+++0b525147-289d-4227-b29f-0fe60de47576.tmp
+++TransportSecurity~RF11a64c34.TMP
+++27152-1637361783670936.pma
+++BrowserMetrics-61982877-6A10.pma
+++f_000092
+++f_000093
+++000045.log
+++MANIFEST-000044
+++f_000094
+++f_000095
+++todelete_d27751728d603bb3_0_1
+++22752-1637362093159690.pma
+++BrowserMetrics-619829AD-58E0.pma
+++f_000096
+++f_000097
+++f_000098
+++000047.log
+++MANIFEST-000046
+++f_000099
+++45212-1637362108673910.pma
+++BrowserMetrics-619829BC-B09C.pma
+++f_00009a
+++f_00009b
+++000049.log
+++MANIFEST-000048
+++f_00009c
+++f_00009d
+++34136-1637362167565871.pma
+++BrowserMetrics-619829F7-8558.pma
+++000051.log
+++MANIFEST-000050
+++f_00009e
+++f_00009f
+++000012.ldb
+++f_0000a0
+++f_0000a1
+++000013.ldb
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\indexeddb\https_web.whatsapp.com_0.indexeddb.leveldb\000013.ldb
+++45512-1637362257433400.pma
+++BrowserMetrics-61982A51-B1C8.pma
+++f_0000a2
+++f_0000a3
+++000053.log
+++MANIFEST-000052
+++f_0000a4
+++f_0000a5
+++35760-1637362318101197.pma
+++BrowserMetrics-61982A8E-8BB0.pma
+++f_0000a6
+++f_0000a7
+++000055.log
+++MANIFEST-000054
+++f_0000a8
+++f_0000a9
+++15832-1637362380481297.pma
+++BrowserMetrics-61982ACC-3DD8.pma
+++f_0000aa
+++f_0000ab
+++f_0000ac
+++f_0000ad
+++MANIFEST-000056
+++000056.dbtmp
+++000057.log
+++temp-index
+++7072-1637362410565169.pma
+++BrowserMetrics-61982AEA-1BA0.pma
+++f_0000ae
+++f_0000af
+++000059.log
+++MANIFEST-000058
+++f_0000b0
+++f_0000b1
+++47832-1637362429352030.pma
+++BrowserMetrics-61982AFD-BAD8.pma
+++f_0000b2
+++f_0000b3
+++000061.log
+++MANIFEST-000060
+++f_0000b4
+++f_0000b5
+++43588-1637362447323518.pma
+++BrowserMetrics-61982B0F-AA44.pma
+++f_0000b6
+++f_0000b7
+++000063.log
+++MANIFEST-000062
+++f_0000b8
+++f_0000b9
+++42700-1637362466685786.pma
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\stability\42700-1637362466685786.pma
+++BrowserMetrics-61982B22-A6CC.pma
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\browsermetrics\browsermetrics-61982b22-a6cc.pma
+++f_0000ba
+++f_0000bb
+++000065.log
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\000065.log
+++MANIFEST-000064
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\data_reduction_proxy_leveldb\manifest-000064
+++f_0000bc
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_0000bc
+++f_0000bd
+i:{8da57ee7-c86e-42a8-b7eb-b5dc6cd970a2}:c:\users\vinic\source\repos\whatsappapi\whatsappapi\wwwroot\mydata\default\cache\f_0000bd
